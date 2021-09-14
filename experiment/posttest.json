@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Mannitol salt agar plates are used for the differentiation of the members of the genus.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Streptococcus",
+        "b": "Staphylococcus",
+        "c": "Escherichia",
+        "d": " All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Lipid hydrolysis can be detected by using ----------- ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Blood agar",
+        "b": "Mac conkey agar",
+        "c": "Nutrient agar",
+        "d": "rybutyrene agar"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. The reagent used for catalase test is",
+      "answers": {
+        "a": "Hydrogen peroxide",
+        "b": " Hydrogen sulphide",
+        "c": "Sulphanilic acid",
+        "d": "Alpha naphthol"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The purpose of inoculation loop sterilization in between the quadrant sectors is:",
+        "answers": {
+          "a": "To get individual isolated colonies",
+          "b": "To obtain mixed colonies",
+          "c": "To break agar surface",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
