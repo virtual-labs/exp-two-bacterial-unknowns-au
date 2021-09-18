@@ -16,7 +16,6 @@
 
 #### Procedure
 
-
 1. Sterilize the loop vertically in the blue flame of the Bunsen burner till red hot.
 
 2. Take the test tube containing the nutrient broth with mixed culture of organism that has been kept for 24 - 48 hours.
