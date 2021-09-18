@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  On EMB agar, Escherichia coli will give -------------------- types of colonies.",
+      "answers": {
+        "a": "Blue",
+        "b": "Yellow",
+        "c": "Metallic green",
+        "d": "Pink"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The decoloriser used in the gram stain is--------------  ",
+      "answers": {
+        "a": "Safranin",
+        "b": "Distilled water",
+        "c": "Crystal violet",
+        "d": "Alcohol"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The reagent to detect the presence of indole in the media",
+      "answers": {
+        "a": "Barrit’s reagent",
+        "b": "Alpha naphthol",
+        "c": "Kovac’s reagent",
+        "d": "Methyl red test"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The purpose of inoculation loop sterilization in between the quadrant sectors is:",
+        "answers": {
+          "a": "To get individual isolated colonies",
+          "b": "To obtain mixed colonies",
+          "c": "To break agar surface",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}

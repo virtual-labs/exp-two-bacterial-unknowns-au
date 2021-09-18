@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Mannitol salt agar plates are used for the differentiation of the members of the genus.",
+      "answers": {
+        "a": "Streptococcus",
+        "b": "Staphylococcus",
+        "c": "Escherichia",
+        "d": " All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Lipid hydrolysis can be detected by using ----------- ",
+      "answers": {
+        "a": "Blood agar",
+        "b": "Mac conkey agar",
+        "c": "Nutrient agar",
+        "d": "rybutyrene agar"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The reagent used for catalase test is",
+      "answers": {
+        "a": "Hydrogen peroxide",
+        "b": " Hydrogen sulphide",
+        "c": "Sulphanilic acid",
+        "d": "Alpha naphthol"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The purpose of inoculation loop sterilization in between the quadrant sectors is:",
+        "answers": {
+          "a": "To get individual isolated colonies",
+          "b": "To obtain mixed colonies",
+          "c": "To break agar surface",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
