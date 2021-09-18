@@ -39,28 +39,33 @@ The characteristics features of the colonies on solid agar media are then noted.
 
 In order to obtain the pure culture of organism, the isolated colonies are aseptically transferred on to different nutrient agar slant tubes and incubated overnight at 37 degree Celsius. It is then stored for future purpose.
 
- &nbsp;
+&nbsp;
+
 
 ### Staining Reactions:
  
 Staining is a simple basic technique that is used to identify microorganisms. Simple staining is used to study the morphology of all microorganisms (Fig 1). The simple stain uses the basic dyes such as Methylene blue or basic fuschin. The strong negative charge of the bacterial cell will strongly bind with the positive charged basic dyes and will impart its colour to all bacteria.
 
+&nbsp;
+
+
 <img src="images/stain1.png" title="" />
 
- Fig 1: Simple staining of cocci
+&nbsp;
+
+
+**Fig 1: Simple staining of cocci**
  
- Gram staining is a differential staining technique that imparts different colours to different bacteria or bacterial structures. Usually it differentiates bacteria into two groups; gram positive and gram negative. The primary stain Crystal violet and mordent Iodine form a strong CVI complex all bacteria. Gram positive cells due to their thick peptidoglycan layer will retain the CVI complex even after it is subjected to decolourization with acetone or alcohol. Hence the counter stain Safranin has no action on gram positive cells. But in the case of gram negative, the thin peptidoglycan layer and more lipid contents in the cell wall will easily make them susceptible to the action of decolorizer and hence CVI complex is easily washed out and hence the gram negative cells will the colour of counter stain Safranin.  Hence after the gram staining, the gram positive cells appear as purple and gram negative cells appear as pink (Fig 2). The study of morphological features  and staining characteristics help in the preliminary identification of the isolate.
- 
- <img src="images/stain2.png" title="" />
- 
- Fig 2:   Gram positive bacteria                                                     
- 
+Gram staining is a differential staining technique that imparts different colours to different bacteria or bacterial structures. Usually it differentiates bacteria into two groups; gram positive and gram negative. The primary stain Crystal violet and mordent Iodine form a strong CVI complex all bacteria. Gram positive cells due to their thick peptidoglycan layer will retain the CVI complex even after it is subjected to decolourization with acetone or alcohol. Hence the counter stain Safranin has no action on gram positive cells. But in the case of gram negative, the thin peptidoglycan layer and more lipid contents in the cell wall will easily make them susceptible to the action of decolorizer and hence CVI complex is easily washed out and hence the gram negative cells will the colour of counter stain Safranin.  Hence after the gram staining, the gram positive cells appear as purple and gram negative cells appear as pink (Fig 2). The study of morphological features  and staining characteristics help in the preliminary identification of the isolate.
+
+<b>Gram positive bacteria | <b> Gram negative bacteria
+:--|:--|
+<b> <img src="images/stain22.png" title="" /> | <img src="images/stain3.png" title="" /> 
+
  &nbsp;
+
+**Fig 2: Bacteria identification from stains**
  
- <img src="images/stain3.png" title="" />
- 
-  Fig 2:  Gram negative bacteria
-  
   
  &nbsp;
  
@@ -78,12 +83,14 @@ Gram negative enteric bacilli play an important role in the contamination of foo
 
 Indole tests looks for the presence or absence of tryptophanase enzyme production of the bacteria. If the enzyme is present, it will degrade the aminoacid tryptophan in the media and will produce Indole, ammonia and pyruvic acid. Indole will react with Kovac's reagent to produce a cherry red complex, which indicates a positive indole test. The absence of red color is indicative of tryptophan hydrolysis due to the lack of tryptophanse enzyme(Fig 3).
 
- 
- &nbsp;
- 
- <img src="images/stain4.png" title="" />
 
-  Fig 3:  Indole test
+&nbsp;
+ 
+<img src="images/stain4.png" title="" />
+
+&nbsp;
+ 
+**Fig 3:  Indole test**
   
   
  &nbsp;
@@ -93,10 +100,14 @@ Indole tests looks for the presence or absence of tryptophanase enzyme productio
 
 This test detects the ability of microorganism to ferment glucose and to produce acidic end products. Enteric organism produces pyruvic acid from glucose metabolism. Some enteric will then use the mixed acid pathway to metabolize pyruvic acid to other acidic products such as lactic acid, acetic acid and formic acids. This will reduce the pH of the media. Methyl red is a pH indicator which is red at the acidic pH (below 4.4) and yellow at alkaline pH (above 7). The formation of red color after the addition of Methyl red reagent indicates the accumulation of acidic end products in the medium and is an indicative of positive test (Fig 4).
 
+
+&nbsp;
              
 <img src="images/stain5.png" title="" />
 
-Fig 4:  Methyl red test
+&nbsp;
+ 
+**Fig 4:  Methyl red test**
 
 &nbsp;
 
@@ -107,9 +118,14 @@ This test determines the ability of microorganism to ferment glucose. The end pr
 
                                                                                                              
 
- <img src="images/stain6.png" title="" />
+&nbsp;
+
+<img src="images/stain6.png" title="" />
+
+&nbsp;
  
- Fig 5:  Voges prausker test
+**Fig 5:  Voges prausker test**
+ 
 &nbsp;
 
 
@@ -118,10 +134,14 @@ This test determines the ability of microorganism to ferment glucose. The end pr
 
 This test determines the ability of microorganism to utilize Citrate. Some bacteria have the capability to convert the salts of organic acids, for example, Sodium citrate to alkaline carbonates. Sodium citrate is one of the important metabolite of Kreb's cycle. Certain bacteria use citrate as the sole carbon source. Citrate utilization requires a specific membrane transporter and citrate lyase activity. Citrate is converted to Oxalo acetic acid by citrate lyase and oxaloacetate decarboxylase activity will convert oxaloacetate to pyruvate with the release of carbondioxide. The other products of the reaction are acetate, Lactic acid, formic acid etc. The carbondioxide reacts with sodium and water to form sodium carbonate (Fig 6).
 
- 
- <img src="images/stain7.png" title="" />
-                
-  Fig 6:   Citrate test
+
+&nbsp;
+
+<img src="images/stain7.png" title="" />
+
+&nbsp;
+
+**Fig 6:   Citrate test**
 
 &nbsp;
 
@@ -185,11 +205,16 @@ Gelatin, a protein derived from the animal protein collagen. It has been used as
 
 The gelatin hydrolysis tests for an organism's ability to break down the protein gelatin which is derived from collagen.  Gelatin causes the media to thicken, especially at cooler (below 28oC)  temperatures.  If the organism can release gelatinase enzymes the gelatin is broken down or liquefied.  The media is checked over a period of about a week after inoculation and incubation at room temperature, for gelatinase activity.  The tube is placed on ice for a few minutes and if the media fails to solidify it is considered a positive test.   The gelatinase reaction may be slow or incomplete (Fig 7).
 
- 
- <img src="images/stain9.png" title="" />
- 
-Fig 7: Gelatin hydrolysis test (The gelatin hydrolysis is indicated by the liquid nature of the gelatin ( positive test) and the negative test is indicated by the solid nature of the gelatin)
+&nbsp;
 
+<img src="images/stain9.png" title="" />
+
+&nbsp;
+ 
+**Fig 7: Gelatin hydrolysis test (The gelatin hydrolysis is indicated by the liquid nature of the gelatin ( positive test) and the negative test is indicated by the solid nature of the gelatin)**
+
+
+&nbsp;
  
 
 ### Nitrate Reduction Broth:
@@ -197,11 +222,14 @@ Fig 7: Gelatin hydrolysis test (The gelatin hydrolysis is indicated by the liqui
 
 Bacterial species may be classified into different groups depends on  their ability to reduce nitrate to nitrite or nitrogenous gases provided in the growth medium. The reduction in nitrate can be coupled  to anaerobic respiration in some bacterial species.  Nitrate, present in the broth, is reduced to nitrite which  is  then reduced to nitric oxide, nitrous oxide, or nitrogen. The basis of nitrate reduction test the detection of nitrite and its ability to form a red colored  compound when it reacts with reagent A which is  sulfanilic acid  and to form a complex (nitrite-sulfanilic acid) which then reacts with Reagent B which is α-naphthylamine to give a red precipitate (prontosil). Zinc powder act as a catalyst and that will favours the reduction of nitrate to nitrite. Nitrate reaction occurs only under anaerobic conditions (Fig 8). The medium is then transferred in tubes to make a low surface area to depth ratio that will limit the diffusion of oxygen into the growth medium. Most bacteria utilize the available oxygen in the medium for their growth and will rapidly produce anaerobic conditions for the further reactions.
 
- 
 
-   <img src="images/stain10.png" title="" />                   
+&nbsp;
+
+<img src="images/stain10.png" title="" />                   
+
+&nbsp;
    
-   Fig 8:    Nitrate reduction test
+**Fig 8:    Nitrate reduction test**
 
 &nbsp;
 
@@ -216,6 +244,8 @@ Catalase production and activity can be detected by adding the substrate H2O2 to
 
  
 
+&nbsp;
+ 
 
 
  
@@ -225,12 +255,16 @@ Catalase production and activity can be detected by adding the substrate H2O2 to
 
 Coagulases are enzymes that clot blood plasma by a mechanism that is similar to normal clotting. The coagulase test identifies whether an organism produces this exoenzyme. This enzyme clots the plasma component of blood. The only significant disease-causing bacteria of humans that produce coagulase are Staphylococcus aureus. Thus this enzyme is a good indicator of the pathogenic potential of S. aureus. In the test, the sample is added to rabbit plasma and held at 37° C for a specified period of time. Formation of clot within 4 hours is indicated as a positive result and indicative of a virulent Staphylococcus aureus strain. The absence of coagulation after 24 hours of incubation is a negative result, indicative of an avirulent strain.
 
- 
+
+&nbsp;
+  
 
 ### Oxidase Test:
 
 Oxidase test is an important differential procedure that should be performed on all gram-negative bacteria for their rapid identification. The test depends on the ability of certain bacteria to produce indophenol blue from the oxidation of dimethyl-p-phenylenediamine and α-naphthol. This method uses N,N-dimethyl-p-phenylenediamine oxalate in which all Staphylococci were oxidase negative. In presence of the enzyme cytochrome oxidase (gram-negative bacteria) the N,N-dimethyl-p-phenylenediamine oxalate and α-naphthol react to indophenol blue. Pseudomonas aeruginosa is an oxidase positive organism.
 
+&nbsp;
+ 
 
 ### Starch Hydrolysis Test:
 
@@ -244,6 +278,8 @@ Starch agar is a simple nutritive medium with starch added.  Since no colour cha
 
  
 
+&nbsp;
+ 
  
 
 ### Lipid Hydrolysis:
@@ -251,13 +287,19 @@ Starch agar is a simple nutritive medium with starch added.  Since no colour cha
 
 Trybutyrene agar is used for the detection and enumeration of lipolytic microorganisms in food and other material (Fig 9).
 
- 
+
+&nbsp;
+  
 
 <img src="images/stain11.png" title="" />  
 
-
-Fig 9:  Lipid hydrolysis: Left side;positive for lipid hydrolysis;right side;negative for lipid hydrolysis
+&nbsp;
  
+
+**Fig 9:  Lipid hydrolysis: Left side;positive for lipid hydrolysis;right side;negative for lipid hydrolysis**
+
+&nbsp;
+  
 
 ### Growth on selective and differential media:
  
