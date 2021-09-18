@@ -9,11 +9,12 @@
 4. Bunsen burner
 
 5. Incubator
- 
+
+
 &nbsp;
- 
+
+
 #### Procedure
- 
 
 1. Sterilize the loop vertically in the blue flame of the Bunsen burner till red hot.
 
@@ -233,13 +234,15 @@ Media:  Nitrate broth
 
 4. After incubation presence of opaque zones around the colonies indicates the hydrolysis of lipid.Absence of opaque zones is a negative test for lipid hydrolysis.
 
- 
- &nbsp;
- 
+
+&nbsp;
+
+
 ### Growth on selective and Differential Media
- 
+
 #### Materials Required
- 
+
+
 1. Mannitol salt agar
 
 2. MacConkey’s agar
